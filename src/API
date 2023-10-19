@@ -1,0 +1,5 @@
+`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=d885aa1d783fd13a55050afeef620fcb`
+
+// weather API
+
+
